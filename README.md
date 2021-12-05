@@ -1,2 +1,2 @@
-# Bean_game
-Bean game
+# Bean Game
+BEAN !!!!
